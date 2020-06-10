@@ -1,0 +1,40 @@
+﻿
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 14px;
+    color: #808080;
+    font-family: "微软雅黑" Arial;
+    padding: 10px 15px;
+}
+
+a {
+    color: #808080;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #656565;
+        text-decoration: underline;
+    }
+
+table {
+    width: 100%;
+    min-width: 900px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+    table th {
+        border: 1px solid #ccc;
+        height: 38px;
+        background-color: #f1f1f1;
+    }
+
+    table td {
+        border: 1px solid #ccc;
+        height: 30px;
+    }

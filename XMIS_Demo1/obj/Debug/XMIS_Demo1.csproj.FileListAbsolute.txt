@@ -1,0 +1,25 @@
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll.config
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.pdb
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.csprojResolveAssemblyReference.cache
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.dll
+D:\XMIS\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.pdb
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll.config
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.pdb
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.csprojResolveAssemblyReference.cache
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.dll
+D:\Users\jf31216\Desktop\XMIS_Demo1.5\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.pdb
+E:\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll.config
+E:\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.dll
+E:\XMIS_Demo1\XMIS_Demo1\bin\XMIS_Demo1.pdb
+E:\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.csprojAssemblyReference.cache
+E:\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.csproj.CoreCompileInputs.cache
+E:\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.dll
+E:\XMIS_Demo1\XMIS_Demo1\obj\Debug\XMIS_Demo1.pdb
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\bin\XMIS_Demo1.dll.config
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\bin\XMIS_Demo1.dll
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\bin\XMIS_Demo1.pdb
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\obj\Debug\XMIS_Demo1.csprojResolveAssemblyReference.cache
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\obj\Debug\XMIS_Demo1.dll
+C:\Users\我\Desktop\新建文件夹 (4)\XMIS_Demo1\obj\Debug\XMIS_Demo1.pdb
